@@ -1,4 +1,4 @@
-# CODSOFT_TASKSNO1
+# CODSOFT_TASKSNO
 
 A collection of CODSOFT programming tasks. This repository currently includes a Java number guessing game.
 
